@@ -1,9 +1,13 @@
-My name is Victor Chao.
+My name is Victor Chao.  
+Student in National Central University, Taiwan.  
+Welcome to my gitHub page ✨✨  
 
-Welcome to my gitHub page ✨✨
+If there is any problem or incorrect in repository, please feel free to raise it.
+
+contect me at victor96094@g.ncu.edu.tw
 
 
-> 菜雞一枚
+
 
 
 
