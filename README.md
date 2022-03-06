@@ -1,5 +1,5 @@
 My name is Victor Chao.  
-Student in National Central University, Taiwan.  
+Student in National Central University, R.O.C(Taiwan).  
 Welcome to my gitHub page ✨✨  
 
 If there is any problem or incorrect in repository, please feel free to raise it.
