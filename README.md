@@ -2,14 +2,13 @@ My name is Victor Chao.
 Student in National Central University, R.O.C(Taiwan).  
 Welcome to my gitHub page ✨✨  
 
-If there is any problem or incorrect in repository, please feel free to raise it.
+You can checkout my personal sites for more info!   
+https://victorchao996.github.io/  
+If there is any problem or incorrect in repository, please feel free to let me know.
 
 contect me at   
-✉️ victor96094@g.ncu.edu.tw  
 ✉️ 96094victor@gmail.com
-
-
-
+✉️ victor96094@g.ncu.edu.tw  
 
 
 
