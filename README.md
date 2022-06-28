@@ -7,7 +7,7 @@ https://victorchao996.github.io/
 If there is any problem or incorrect in repository, please feel free to let me know.
 
 contect me at   
-✉️ 96094victor@gmail.com
+✉️ 96094victor@gmail.com  
 ✉️ victor96094@g.ncu.edu.tw  
 
 
