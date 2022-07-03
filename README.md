@@ -2,8 +2,10 @@ My name is Victor Chao.
 Student in National Central University, R.O.C(Taiwan).  
 Welcome to my gitHub page ✨✨  
 
-You can checkout my personal sites for more info!   
+Check out my personal blog posts in below links!   
 https://victorchao996.github.io/  
+or you can checkout my personal sites for more info!  
+https://victorchao996.github.io/Portfolio/  
 If there is any problem or incorrect in repository, please feel free to let me know.
 
 contect me at   
