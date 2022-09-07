@@ -5,7 +5,7 @@ Welcome to my gitHub page ✨✨
 Check out my personal blog posts in below links!   
 https://victorchao996.github.io/  
 or you can checkout my personal sites for more info!  
-https://victorchao996.github.io/Portfolio/  
+
 If there is any problem or incorrect in repository, please feel free to let me know.
 
 contect me at   
