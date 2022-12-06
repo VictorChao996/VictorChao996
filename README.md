@@ -7,6 +7,7 @@ Student in National Central University, R.O.C(Taiwan).
 Welcome to my gitHub page ✨✨
 
 I'm interested in software development, game design, and interactive technology.
+I'm currently learning web technology.
 
 ---
 ### Skills
