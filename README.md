@@ -39,7 +39,8 @@ I'm currently learning web technology.
 </span>
 
 ### Other Links
-- Personal Blog Site: https://victorchao996.github.io/  
+- Personal Blog Site: https://victorchao996.github.io/
+- Personal Dev Books(dictionary): https://victorchao996.gitbook.io/personal-notes/
 - resume: https://www.cakeresume.com/victor96094
 - ✉️Email me at: 96094victor@gmail.com
 
