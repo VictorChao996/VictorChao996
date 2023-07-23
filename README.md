@@ -45,11 +45,10 @@ I'm currently learning web technology.
 
 ### Other Links
 - Personal Blog Site: https://victorchao996.github.io/
-- Personal Dev Books(dictionary): https://victorchao996.gitbook.io/personal-notes/
 - resume: https://www.cakeresume.com/victor96094
 - ✉️Email me at: 96094victor@gmail.com
 
-If there is any problem or incorrect in repository, please feel free to let me know.
+If there is any problem or incorrect in the repository, please feel free to let me know.
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=VictorChao996&show_icons=true&theme=dark#gh-dark-mode-only"> -->
 
