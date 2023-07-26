@@ -4,10 +4,9 @@
 ### Hello 🙌🙌
 My name is Victor Chao.  
 Student in National Central University, R.O.C(Taiwan).  
-Welcome to my gitHub page ✨✨
+Welcome to my GitHub page ✨✨
 
-I'm interested in software development, game design, and interactive technology.
-I'm currently learning web technology.
+I'm interested in software development, Software testing, and game design. In the early stages of my career, I aspire to become a QA Engineer or Backend Engineer. Feel free to contact me.
 
 ---
 ### Skills
