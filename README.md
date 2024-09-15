@@ -8,6 +8,7 @@ Welcome to my GitHub page ✨✨
 I'm interested in software development, Software testing, and game design. In the early stages of my career, I aspire to become a QA Engineer or Backend Engineer. Feel free to contact me.
 
 ---
+<!--
 ### Skills
 #### Programming Language
 <span>
@@ -41,10 +42,11 @@ I'm interested in software development, Software testing, and game design. In th
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </span>
 
+-->
+
 ### Other Links
-- Personal Blog Site: https://victorchao996.github.io/
-- resume: https://www.cakeresume.com/victor96094
 - ✉️Email me at: 96094victor@gmail.com
+- LinkedIn: https://www.linkedin.com/in/victorchao996/
 
 If there is any problem or incorrect in the repository, please feel free to let me know.
 
